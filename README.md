@@ -1,2 +1,2 @@
-# CircleCi
-CircleCi gs
+# CircleCI
+A sample project to test circle CI
